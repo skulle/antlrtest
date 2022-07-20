@@ -1,0 +1,6 @@
+# IntelliJ
+/MathParser.iml
+/.idea/
+
+# Maven
+/target
